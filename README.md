@@ -11,12 +11,15 @@ Java-based clinic management system with patient queue and priority handling.
 -  An option to register a new file is available
 -  System begins with 20 current files.
   
-- Queue management tracks reasons for patient visit.
+  ## Queue management 
+  
+  - System tracks reasons for patient visit.
 - Handles walk-ins and appointments
 - Records patient symptoms temporarily
   
 - Priority patient handling (Urgent, High, low, and medium)
   
+  ## Staff only
   
 - Staff will view critical details sent to console
 - Console interface is for staff only
