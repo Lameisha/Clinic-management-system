@@ -3,12 +3,28 @@ Java-based clinic management system with patient queue and priority handling.
 
 
 ## Features
-- Patient registration
-- Queue management 
-- Priority patient handling
-- Input validation
-- Staff and patient interaction system
 
+## Note: Registering a new file won't be stored in Java code but file number will increment.
+
+- Patient registration with simple GUI user interface.
+- Requires an existing patient_id to continue.
+-  An option to register a new file is available
+-  System begins with 20 current files.
+  
+- Queue management tracks reasons for patient visit.
+- Handles walk-ins and appointments
+- Records patient symptoms temporarily
+  
+- Priority patient handling (Urgent, High, low, and medium)
+  
+  
+- Staff will view critical details sent to console
+- Console interface is for staff only
+- Designed to avoid scaring patients
+    
+-  Patient interaction system sends a message that they will be assisted soon.
+
+  
 ## Tools Used
 - Java
 - IntelliJ IDEA 
@@ -25,6 +41,8 @@ Java-based clinic management system with patient queue and priority handling.
 - Database integration 
 - GUI improvements
 - Appointment scheduling
+
+  ## MySQL Workbench connected to IntelliJ IDEA
 
 
 ## Screenshot
