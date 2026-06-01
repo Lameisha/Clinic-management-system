@@ -4,7 +4,7 @@ Java-based clinic management system with patient queue and priority handling.
 
 ## Features
 
-## Note: Registering a new file won't be stored in Java code but file number will increment.
+## Note: Registering a new file will increment the total count but won't save data inside the Java code.
 
 - Patient registration with simple GUI user interface.
 - Requires an existing patient_id to continue.
