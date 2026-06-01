@@ -25,3 +25,8 @@ Java-based clinic management system with patient queue and priority handling.
 - Database integration 
 - GUI improvements
 - Appointment scheduling
+
+
+## Screenshot
+
+![Screenshot](ClinicFileSystem.jng)
