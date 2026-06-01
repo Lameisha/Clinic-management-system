@@ -21,11 +21,11 @@ Java-based clinic management system with patient queue and priority handling.
   
   ## Staff only
   
-- Staff will view critical details sent to console
+- Staff views critical details sent to console
 - Console interface is for staff only
 - Designed to avoid scaring patients
     
--  Patient interaction system sends a message that they will be assisted soon.
+-  Patient interaction system sends a reassurance message to waiting patients.
 
   
 ## Tools Used
