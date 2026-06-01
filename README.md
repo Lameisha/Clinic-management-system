@@ -29,4 +29,4 @@ Java-based clinic management system with patient queue and priority handling.
 
 ## Screenshot
 
-![Screenshot](ClinicFileSystem.jng)
+![Screenshot](ClinicFileSystem.png)
