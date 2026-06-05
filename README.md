@@ -1,17 +1,25 @@
 # Clinic-management-system
 Java-based clinic management system with patient queue and priority handling.
 
+This project was created to apply object-oriented programming concepts and demonstrate how software can improve the organization of patient information and clinics operation.
+
+## Problems being solved:
+
+- Clinics and hospitals often need an efficient way to manage patient details, track visit reasons, prioritize urgent cases and organize patient queue.
+
+- This project provides a simplified solution that demonstrates how software can support clinics workflows while maintaining a user-friendly experience for patients.
+
 
 ## Features
 
-## Note: Registering a new file will increment the total count but won't save data inside the Java code.
+ Note: Registering a new file will increment the total count but does not permanently store patient data.
 
 - Patient registration with simple GUI user interface.
 - Requires an existing patient_id to continue.
 -  An option to register a new file is available
 -  System begins with 20 current files.
   
-  ## Queue management 
+  Queue management: 
   
   - System tracks reasons for patient visit.
 - Handles walk-ins and appointments
@@ -19,14 +27,19 @@ Java-based clinic management system with patient queue and priority handling.
   
 - Priority patient handling (Urgent, High, low, and medium)
   
-  ## Staff only
+  Staff only:
   
-- Staff views critical details sent to console
+- Staff views crucial details sent to console
 - Console interface is for staff only
 - Designed to avoid scaring patients
-    
 -  Patient interaction system sends a reassurance message to waiting patients.
 
+Skills demonstrated:
+
+- User input validation
+- Conditional statements
+- GUI development
+- Problem solving
   
 ## Tools Used
 - Java
@@ -41,10 +54,13 @@ Java-based clinic management system with patient queue and priority handling.
 3. Follow the prompts
 
 ## Future Improvements 
-- Database integration 
+- Database integration
 - GUI improvements
 - Appointment scheduling
+- Persistent patients record storage
+- Reporting feature
 
+  
   ## MySQL Workbench connected to IntelliJ IDEA
 
 
