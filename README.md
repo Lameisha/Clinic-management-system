@@ -1,13 +1,13 @@
 # Clinic-management-system
 Java-based clinic management system with patient queue and priority handling.
 
-This project was created to apply object-oriented programming concepts and demonstrate how software can improve the organization of patient information and clinics operation.
+This project was created to apply object-oriented programming concepts and demonstrate how software can improve the organization of patient information and clinic operations.
 
 ## Problems being solved:
 
-- Clinics and hospitals often need an efficient way to manage patient details, track visit reasons, prioritize urgent cases and organize patient queue.
+- Clinics and hospitals often need an efficient way to manage patient details, track visit reasons, prioritize urgent cases and organize patient queues.
 
-- This project provides a simplified solution that demonstrates how software can support clinics workflows while maintaining a user-friendly experience for patients.
+- This project provides a simplified solution that demonstrates how software can support clinic workflows while maintaining a user-friendly experience for patients.
 
 
 ## Features
@@ -25,7 +25,7 @@ This project was created to apply object-oriented programming concepts and demon
 - Handles walk-ins and appointments
 - Records patient symptoms temporarily
   
-- Priority patient handling (Urgent, High, low, and medium)
+- Priority patient handling (Urgent, High, Low, and Medium)
   
   Staff only:
   
@@ -57,7 +57,7 @@ Skills demonstrated:
 - Database integration
 - GUI improvements
 - Appointment scheduling
-- Persistent patients record storage
+- Patient record storage
 - Reporting feature
 
   
